@@ -1,0 +1,15 @@
+/* nav.css */
+nav {
+    width: 100%;
+}
+
+nav .logo {
+    
+}
+
+nav .menu {
+    overflow: hidden;
+}
+nav .menu li {
+    float: left;
+}
